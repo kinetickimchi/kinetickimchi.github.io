@@ -23,6 +23,7 @@ github_username: kinetickimchi
 minimal_mistakes_skin: default
 search: true
 repository: "kinetickimchi/kinetickimchi.github.io"
+url: "https://kinetickimchi.github.io"
 
 # Build settings
 markdown: kramdown
